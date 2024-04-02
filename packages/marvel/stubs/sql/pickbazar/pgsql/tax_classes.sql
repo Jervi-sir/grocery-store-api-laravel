@@ -1,0 +1,1 @@
+INSERT INTO "public"."tax_classes" VALUES (1,NULL,NULL,NULL,NULL,2,'Global',NULL,NULL, true,'2021-03-25 13:26:57','2021-03-25 16:07:18');
